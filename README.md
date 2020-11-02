@@ -8,9 +8,9 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/civilenginner/Happy?style=plastic&color=15C3D6&labelColor=000000&logo=typescript">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/civilenginner/Happy?style=plastic&color=15C3D6&labelColor=000000">
-  <img alt="GitHub" src="https://img.shields.io/github/license/civilenginner/Happy?style=plastic&color=15C3D6&labelColor=000000"> 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/engineercivil/Happy?style=plastic&color=15C3D6&labelColor=000000&logo=typescript">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/engineercivil/Happy?style=plastic&color=15C3D6&labelColor=000000">
+  <img alt="GitHub" src="https://img.shields.io/github/license/engineercivil/Happy?style=plastic&color=15C3D6&labelColor=000000"> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=plastic&logo=react&color=15C3D6&labelColor=000000"><br/>
 <a href="https://app.getpostman.com/run-collection/1405a12da0a18e02c9ec" target="_blank"><img src="https://run.pstmn.io/button.svg" alt="Run in Postman"></a>
 </p>
