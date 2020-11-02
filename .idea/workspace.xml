@@ -11,13 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04366059-6e0e-45a2-8d53-6452ff86aa2c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/frontend/src/images/landing.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/images/landing.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Landing.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Landing.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/pages/Orphanage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Orphanage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/pages/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/pages/landing.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -55,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604347143376</updated>
       <workItem from="1604347144499" duration="2217000" />
+      <workItem from="1604352404025" duration="52000" />
     </task>
     <servers />
   </component>
@@ -71,5 +66,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
