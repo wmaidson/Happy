@@ -115,6 +115,6 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for
 ---
 <sup>Project developed with the tutorship of [Diego Fernandes](https://github.com/diego3g), by [Rocketseat](rocketseat.com.br).</sup>
 
-## :airplane: Appication
+## :airplane: Application
 
-**Try aplication:** https://42happy.tk
+**Try application:** https://42happy.tk
